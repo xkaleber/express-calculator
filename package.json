@@ -1,0 +1,14 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "Express.js exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaleb Berhane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
